@@ -1,0 +1,7 @@
+# Optional ML stack (SBERT, RoBERTa detector, GPT-2 perplexity, evaluation)
+-r requirements.txt
+numpy>=1.26
+torch>=2.2
+transformers>=4.44
+sentence-transformers>=3.0
+huggingface_hub>=0.24
